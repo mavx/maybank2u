@@ -7,7 +7,7 @@ git clone https://github.com/mavx/maybank2u.git
 cd selenium
 
 pip install pipenv # Skip this if already installed
-pipenv install
+pipenv install --three # Install dependencies into Python3 environment
 ```
 
 ## Usage
